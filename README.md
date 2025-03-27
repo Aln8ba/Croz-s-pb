@@ -114,8 +114,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. |<h2 align="center"><img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/Maushold%20-%20normal%20-%20a2.jpg?raw=true" width="70" height="70"> Attempt #4, up to Lorelei, https://clips.twitch.tv/RepleteHotHawkDendiFace-8NooIwJnSdE8NC2C</h2> | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+A1 PB Image Pasted here. PB text and Attempt Number here. |<img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/Maushold%20-%20normal%20-%20a2.jpg?raw=true" width="350" height="275">        https://clips.twitch.tv/RepleteHotHawkDendiFace-8NooIwJnSdE8NC2C</h2> | A3 PB Image Pasted here. PB text and Attempt Number here.
+                                                              
 # POISON <img src="https://github.com/user-attachments/assets/8337e63b-c7fb-43be-9ef7-ad557cd1ac45" width="28" height="28">
 
 
