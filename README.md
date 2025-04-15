@@ -52,8 +52,9 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | https://www.twitch.tv/crozwords/clip/PrettySuspiciousAlligatorArsonNoSexy-bndM3uLLLAjGJNqA | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+A1 PB Image Pasted here. PB text and Attempt Number here. |<img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/A2%20-%20Fighting%20-%20seed%2017%20-%20Surge.jpg" width="350" height="275">  | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/PrettySuspiciousAlligatorArsonNoSexy-bndM3uLLLAjGJNqA |-
+-|Attempt #17 - Surge|-
 # FIRE <img src="https://github.com/user-attachments/assets/503f0f86-1bcf-4e13-b672-73cb90531cf4" width="28" height="28">
 
 
