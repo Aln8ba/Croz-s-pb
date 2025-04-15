@@ -35,7 +35,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+-|https://www.twitch.tv/crozwords/clip/TenaciousSincereChickpeaThunBeast-xls0oFqqmOWfo4i8|-
+-|Attempt #18 - Koga|-
 # FAIRY <img src="https://github.com/user-attachments/assets/adb23137-2024-4bdb-8739-18619efd9743" width="28" height="28">
 
 
@@ -53,8 +54,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. |<img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/A2%20-%20Fighting%20-%20seed%2017%20-%20Surge.jpg" width="350" height="275">  | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/PrettySuspiciousAlligatorArsonNoSexy-bndM3uLLLAjGJNqA |-
--|Attempt #17 - Surge|-
+https://www.twitch.tv/crozwords/clip/DeadSeductiveGarageHeyGuys-Rymy1s7LYpjpp0FT|https://www.twitch.tv/crozwords/clip/PrettySuspiciousAlligatorArsonNoSexy-bndM3uLLLAjGJNqA |-
+Seed #23|Attempt #17 - Surge|-
 # FIRE <img src="https://github.com/user-attachments/assets/503f0f86-1bcf-4e13-b672-73cb90531cf4" width="28" height="28">
 
 
@@ -72,7 +73,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+https://www.twitch.tv/crozwords/clip/SlickHungryPartridgeNinjaGrumpy-vQ7rHf9oyd67qJdE|-|-
+Seed #29|-|-
 # GHOST <img src="https://github.com/user-attachments/assets/1f2845c7-71b1-452f-9040-2399bdb975d1" width="28" height="28">
 
 
@@ -90,7 +92,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+https://www.twitch.tv/crozwords/clip/ObliqueCautiousConsoleCoolCat-KjiB-mEqMkqiQ3U6|-|-
+Seed #37|-|-
 # GROUND <img src="https://github.com/user-attachments/assets/00cdddfb-f141-42a7-90bf-a9ac26b9fb5a" width="28" height="28">
 
 
@@ -127,7 +130,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. |<img src="https://git
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+https://www.twitch.tv/crozwords/clip/HedonisticBlitheDadMVGame-gDuY-vTF6M1yAAy0|-|-
+Seed #22|-|-
 # PSYCHIC <img src="https://github.com/user-attachments/assets/e2030731-c147-4f5f-866a-3b58b703c99a" width="28" height="28">
 
 
