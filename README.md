@@ -52,7 +52,7 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+A1 PB Image Pasted here. PB text and Attempt Number here. | https://www.twitch.tv/crozwords/clip/PrettySuspiciousAlligatorArsonNoSexy-bndM3uLLLAjGJNqA | A3 PB Image Pasted here. PB text and Attempt Number here.
 
 # FIRE <img src="https://github.com/user-attachments/assets/503f0f86-1bcf-4e13-b672-73cb90531cf4" width="28" height="28">
 
@@ -162,3 +162,5 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/SlipperyBigSalmonEleGiggle-pOiuCr-qEmfAF-SL|-
+-|Attempt #8 - died to Agatha|-
