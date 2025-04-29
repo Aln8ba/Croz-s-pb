@@ -63,7 +63,7 @@ Seed #23|Attempt #17 - Surge|-
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20fire%20-%20seed%2032%20-%20hideout%20Gio.jpg" width="350" height="275">  | A3 PB Image Pasted here. PB text and Attempt Number here.
 -|https://www.twitch.tv/crozwords/clip/ReliableMiniatureMilkDoggo-MlK7YvxFJ-qqS8zs|-
 -|Attempt #32 - Hideout Gio|-
 # FLYING <img src="https://github.com/user-attachments/assets/eb334534-a683-4f51-9078-a478301430f4" width="28" height="28">
