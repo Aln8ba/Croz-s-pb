@@ -44,7 +44,7 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://gi
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20fairy%20-%20seed%2018%20-%20route%208.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
 -|https://www.twitch.tv/crozwords/clip/BlightedWanderingSparrowKappaWealth-vGsglwu6XRZzrqsc|-
 -|Attempts #18 - Route 8|-
 # FIGHTING <img src="https://github.com/user-attachments/assets/4059c92e-d5f2-4ea8-bb05-97d6acdc2ebd" width="28" height="28">
