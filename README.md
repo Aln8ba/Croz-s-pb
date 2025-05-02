@@ -74,7 +74,7 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://gi
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20flying%20-%20seed%207%20-%20Agatha.PNG" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
 https://www.twitch.tv/crozwords/clip/SlickHungryPartridgeNinjaGrumpy-vQ7rHf9oyd67qJdE|https://www.twitch.tv/crozwords/clip/TangiblePeacefulPepperoniCclamChamp-te2OFZjvuntxSHCk|-
 Seed #29|Seed #7 - Agatha|-
 # GHOST <img src="https://github.com/user-attachments/assets/1f2845c7-71b1-452f-9040-2399bdb975d1" width="28" height="28">
