@@ -105,7 +105,7 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Ground%20-%20seed%2048%20-%20Silph.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
 -|https://www.twitch.tv/crozwords/clip/BlazingFrigidIcecreamStrawBeary-hbvagjA_qbbVgfcz|-
--|Attempt #48 - Silph|-
+-|Attempt #48 - Silph Gio|-
 # ICE <img src="https://github.com/user-attachments/assets/a823ac0a-45cf-4b24-988b-7f4ef344fb55" width="28" height="28">
 
 
