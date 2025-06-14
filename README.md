@@ -84,7 +84,7 @@ Seed #29|Seed #7 - Agatha|-
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://www.twitch.tv/crozwords/clip/SpunkyColdbloodedAirGuitarHeyGuys-kf-7ZKV58WUCG6_8" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Ghost%20-%20Seed%2054%20-%20Bridge%20rival%20.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
 -|https://www.twitch.tv/crozwords/clip/SpunkyColdbloodedAirGuitarHeyGuys-kf-7ZKV58WUCG6_8|-
 -|Seed #54 - Bridge rival|-
 # GRASS <img src="https://github.com/user-attachments/assets/7e318a9a-8da9-4530-ba1f-2b6d10d8bab8" width="28" height="28">
