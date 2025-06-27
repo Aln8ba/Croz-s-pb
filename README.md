@@ -116,7 +116,7 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 -|https://www.twitch.tv/crozwords/clip/BigBumblingCarrotPeteZarollTie-YRJ-5doWfPg-nafp|-
--|-|-
+-|Seed #106 - WIN|-
 # NORMAL <img src="https://github.com/user-attachments/assets/bcd05b0d-5478-4433-b346-0ee1b5268b30" width="28" height="28">
 
 
