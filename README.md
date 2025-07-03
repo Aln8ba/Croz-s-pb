@@ -96,7 +96,7 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/A2%20-%20Grass%20-%20seed%2037%20-%20Bike-path.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
 https://www.twitch.tv/crozwords/clip/ObliqueCautiousConsoleCoolCat-KjiB-mEqMkqiQ3U6|https://www.twitch.tv/crozwords/clip/HumbleUgliestPepperoniGOWSkull-6uuoF_NmZYogv4ky|-
-Seed #37| Seed #37|-
+Seed #37| Seed #37 - cycling road|-
 # GROUND <img src="https://github.com/user-attachments/assets/00cdddfb-f141-42a7-90bf-a9ac26b9fb5a" width="28" height="28">
 
 
