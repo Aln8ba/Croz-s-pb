@@ -85,7 +85,7 @@ Seed #29|Seed #7 - Agatha|-
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Ghost%20-%20Seed%2054%20-%20Bridge%20rival%20.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/SpunkyColdbloodedAirGuitarHeyGuys-kf-7ZKV58WUCG6_8|-
+-|https://www.twitch.tv/crozwords/clip/UgliestUglyWormFeelsBadMan-7wXfgewLfDki35mt|-
 -|Seed #54 - Bridge rival|-
 # GRASS <img src="https://github.com/user-attachments/assets/7e318a9a-8da9-4530-ba1f-2b6d10d8bab8" width="28" height="28">
 
@@ -94,7 +94,7 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://gi
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/A2%20-%20Grass%20-%20seed%2037%20-%20Bike-path.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20grass%20-%20seed%2064%20-%20Pkmn%20mansion-route22.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
 https://www.twitch.tv/crozwords/clip/ObliqueCautiousConsoleCoolCat-KjiB-mEqMkqiQ3U6|https://www.twitch.tv/crozwords/clip/HumbleUgliestPepperoniGOWSkull-6uuoF_NmZYogv4ky|-
 Seed #37| Seed #37 - cycling road|-
 # GROUND <img src="https://github.com/user-attachments/assets/00cdddfb-f141-42a7-90bf-a9ac26b9fb5a" width="28" height="28">
