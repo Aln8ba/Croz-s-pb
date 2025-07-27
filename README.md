@@ -163,9 +163,9 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Steel%20-%20Seed%2086%20-%20Rock%20tunnel.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/AliveExuberantYogurtPeteZaroll-8dwtPdXGXfQgJTdx|-
--|Attempt #86 - Rock Tunnel|-
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20steel%20-%20seed%2098%20-%20Koga.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/BlitheExuberantTardigradeChocolateRain-LRfSMbGf5q05egHk|-
+-|Attempt #98 - Koga|-
 # WATER <img src="https://github.com/user-attachments/assets/e4c2f0d5-2877-43cc-b2d4-2619526d6224" width="28" height="28">
 
 
