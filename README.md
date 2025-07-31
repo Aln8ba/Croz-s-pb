@@ -6,8 +6,9 @@
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20bug%20-%20seed%2087%20-%20Gym%20gio.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/ViscousPeppyReindeerDuDudu-HZLrCgvwiCCbKwig|-
+-|Attempt #87 - Gym Gio|-
 # DARK <img src="https://github.com/user-attachments/assets/bfc3b554-10e4-413c-8c12-b6fa0d83bf1f" width="28" height="28">
 
 
