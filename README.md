@@ -155,8 +155,9 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
-
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20rock%20-%20seed%2072%20-%20lorelei.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/EnergeticAltruisticBeaverPeteZaroll-8SKa5svakMriugM8|-
+-|Seed #72 - Died to Lorelei|-
 # STEEL <img src="https://github.com/user-attachments/assets/61f966af-a2a7-4042-919a-4f37d03f366c" width="28" height="28">
 
 
