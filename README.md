@@ -175,6 +175,6 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://gi
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Water%20-%20seed%208%20-%20Agatha.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/SlipperyBigSalmonEleGiggle-pOiuCr-qEmfAF-SL|-
--|Seed #8 - died to Agatha|-
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="--="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/GenerousPunchyPistachio4Head-rQVAkNsaz-Xgbqwv|-
+-|Seed #117 - WON|-
