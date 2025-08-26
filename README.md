@@ -145,9 +145,9 @@ Seed #22|-|-
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/BitterSmallBeaverSuperVinlin-GKmY4XI3muo6nSKl|-
--|Seed #54 - Died to Erika|-
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20psychic%20-%20seed%2074%20-%20Koga.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/PowerfulSaltyGooseDuDudu-Mw9lyjIk3SLDIb3R|-
+-|Seed #74 - Died to Koga|-
 # ROCK <img src="https://github.com/user-attachments/assets/327588ac-f471-4eee-97fe-08f7ef8ce4e9" width="28" height="28">
 
 
