@@ -36,8 +36,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted h
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20electric%20-%20seed%2018%20%20-%20Koga.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/TenaciousSincereChickpeaThunBeast-xls0oFqqmOWfo4i8|-
--|Seed #18 - Koga|-
+-|https://www.twitch.tv/crozwords/clip/NaiveAdorableDotterelSSSsss-1KZZawONWUX_fT_y|-
+-|Seed #171 - Lance|-
 # FAIRY <img src="https://github.com/user-attachments/assets/adb23137-2024-4bdb-8739-18619efd9743" width="28" height="28">
 
 
