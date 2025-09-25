@@ -45,8 +45,8 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://gi
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20fairy%20-%20seed%2027%20-%20VR.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/GoodSaltyPeanutBrokeBack--6lCKjPVwwdEW3yl|-
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/A2%20-%20Fighting%20-%20seed%20120%20-%20Agatha.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/EnchantingOilyClintShazBotstix-wIcD7EMT2q_cnJhA|-
 -|Seed #27 - VR|-
 # FIGHTING <img src="https://github.com/user-attachments/assets/4059c92e-d5f2-4ea8-bb05-97d6acdc2ebd" width="28" height="28">
 
@@ -57,7 +57,7 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. |<img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/A2%20-%20Fighting%20-%20seed%2017%20-%20Surge.jpg" width="350" height="275">  | A3 PB Image Pasted here. PB text and Attempt Number here.
 https://www.twitch.tv/crozwords/clip/DeadSeductiveGarageHeyGuys-Rymy1s7LYpjpp0FT|https://www.twitch.tv/crozwords/clip/PrettySuspiciousAlligatorArsonNoSexy-bndM3uLLLAjGJNqA |-
-Seed #23|Seed #17 - Surge|-
+Seed #23|Seed #120 - Agatha|-
 # FIRE <img src="https://github.com/user-attachments/assets/503f0f86-1bcf-4e13-b672-73cb90531cf4" width="28" height="28">
 
 
