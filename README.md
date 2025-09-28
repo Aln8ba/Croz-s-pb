@@ -16,9 +16,9 @@ A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://gi
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Dark%20-%20seed%2023%20-%20Lance.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
--|https://www.twitch.tv/crozwords/clip/SmokyElegantPandaCclamChamp-LQdDjLXcxUKfM1rX|-
--|Seed #23 - Died to Lance|-   
+A1 PB Image Pasted here. PB text and Attempt Number here. | <img src="https://github.com/Aln8ba/Croz-s-pb/blob/main/a2%20-%20Dark%20-%20seed%20124%20-%20Win.jpg" width="350" height="275"> | A3 PB Image Pasted here. PB text and Attempt Number here.
+-|https://www.twitch.tv/crozwords/clip/RoundCoyTrollPrimeMe-JVX35FSzLT0bWmTA|-
+-|Seed #124 - WIN|-   
 # DRAGON <img src="https://github.com/user-attachments/assets/4dfc06ca-d030-4736-81f1-4fab723f44cc" width="28" height="28">
 
 
